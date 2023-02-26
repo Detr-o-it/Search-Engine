@@ -1,4 +1,4 @@
-var a = async function xys() {
+var a = function xys() {
   var returnObj;
   // var obj = document.getElementById("1").value;
   // console.log(obj);
